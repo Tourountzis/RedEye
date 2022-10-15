@@ -28,5 +28,8 @@
 
 	"cypressHelper.commandForOpen": "yarn cypress open",
 
-	"cypressHelper.commandForRun": "yarn cypress run"
+	"cypressHelper.commandForRun": "yarn cypress run",
+	"githubPullRequests.ignoredPullRequestBranches": [
+		"develop"
+	]
 }
